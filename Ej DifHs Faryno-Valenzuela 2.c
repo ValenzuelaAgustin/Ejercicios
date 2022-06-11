@@ -9,8 +9,6 @@ struct TIEMPO
     int segundos;
 } HORA1, HORA2, dif;
 
-int resta=0;
-
 int main()
 {
     printf ("\nIngrese la hora de inicio:\t");
