@@ -49,7 +49,7 @@ int main()
     }
     else
     {
-        printf ("\nError: La hora de incio es menor a la final.");
+        printf ("\nError: La hora de incio es mayor a la final.");
         return 0;
     }
 }
